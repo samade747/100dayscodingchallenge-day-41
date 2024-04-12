@@ -9,6 +9,6 @@ function logUnitVowel(str: string): void { // function that logs the first vowel
 
 
 }
+}
 
 logUnitVowel('syzygy')
-
